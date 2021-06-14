@@ -4,8 +4,8 @@ In this project, I am using c++ to create an DLL file and using c# to call all t
 
 [DllImport(SumFunctionsDLL, CallingConvention = CallingConvention.Cdecl)]
 
-Main ---> "\CalculatorDLL\"
-DLL  ---> "\SumFunction"
+Main C# -> CalculatorDLL
+DLL Path -> SumFunction Folder
 
 
 What is a .dll file?

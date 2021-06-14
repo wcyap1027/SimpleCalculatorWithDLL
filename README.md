@@ -4,7 +4,7 @@ In this project, I am using c++ to create an DLL file and using c# to call all t
 
 [DllImport(SumFunctionsDLL, CallingConvention = CallingConvention.Cdecl)]
 
-Main ---> "\CalculatorDLL"
+Main ---> "\CalculatorDLL\"
 DLL  ---> "\SumFunction"
 
 

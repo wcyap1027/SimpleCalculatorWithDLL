@@ -5,7 +5,7 @@ The use of DLLs helps promote modularization of code, code reuse, efficient memo
 and reduced disk space. So, the operating system and the programs load faster, run faster, and take less disk space on the computer.
 
 # Example of how to create a .dll file 
-In this project, I am using c++ to create an DLL file 
+In this project, I am using c++ to create an DLL file &nbsp
 Step 1: Create an empty c++ project
 Step 2: Right click on your c++ project in Solution Explorer and choose "Properties"
 Step 3: Configuration Propeties > General > Configuration Type change to "Dynamic Library (.dll)" > Click Apply & OK
